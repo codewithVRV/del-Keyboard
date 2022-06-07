@@ -1,0 +1,757 @@
+.keyboard{
+    margin-top: 50px;
+    height: 370px;
+    width: 1307px;
+    /* border: 1px solid black; */
+}
+.design{
+    background-color: black;
+    color: white;
+    font-size: 18px;
+    border-radius: 8px;
+}
+.b1{
+    margin-top: 10px;
+    height: 30px;
+    width: 70px;
+    border: 1px solid black;
+    float: left;
+}
+.b2{
+    margin-top: 10px;
+    height: 30px;
+    width: 70px;
+    border: 1px solid black;
+    float: left;
+    margin-left: 10px;
+}
+
+.b3{
+    margin-left: 10px;
+
+    margin-top: 10px;
+    height: 30px;
+    width: 70px;
+    border: 1px solid black;
+    float: left;
+}
+
+.b4{
+    margin-top: 10px;
+    height: 30px;
+    width: 70px;
+    border: 1px solid black;
+    float: left;
+    margin-left: 10px;
+
+}
+.b5{
+    margin-top: 10px;
+    height: 30px;
+    width: 70px;
+    border: 1px solid black;
+    float: left;
+    margin-left: 10px;
+
+}
+.b6{
+    margin-top: 10px;
+    height: 30px;
+    width: 70px;
+    border: 1px solid black;
+    float: left;
+    margin-left: 10px;
+
+}
+.b7{
+    margin-top: 10px;
+    height: 30px;
+    width: 70px;
+    border: 1px solid black;
+    float: left;
+    margin-left: 10px;
+
+}
+.b8{
+    margin-top: 10px;
+    height: 30px;
+    width: 70px;
+    border: 1px solid black;
+    float: left;
+    margin-left: 10px;
+
+}
+.b9{
+    margin-top: 10px;
+    height: 30px;
+    width: 70px;
+    border: 1px solid black;
+    float: left;
+    margin-left: 10px;
+
+}
+.b10{
+    margin-top: 10px;
+    height: 30px;
+    width: 70px;
+    border: 1px solid black;
+    float: left;
+    margin-left: 10px;
+
+}
+.b11{
+    margin-top: 10px;
+    height: 30px;
+    width: 70px;
+    border: 1px solid black;
+    float: left;
+    margin-left: 10px;
+
+}
+.b12{
+    margin-top: 10px;
+    height: 30px;
+    width: 70px;
+    border: 1px solid black;
+    float: left;
+    margin-left: 10px;
+
+}
+.b13{
+    margin-top: 10px;
+    height: 30px;
+    width: 70px;
+    border: 1px solid black;
+    float: left;
+    margin-left: 10px;
+
+}
+.b14{
+    margin-top: 10px;
+    height: 30px;
+    width: 70px;
+    border: 1px solid black;
+    float: left;
+    margin-left: 10px;
+
+}
+.b15{
+    margin-top: 10px;
+    height: 30px;
+    width: 70px;
+    border: 1px solid black;
+    float: left;
+    margin-left: 10px;
+
+}
+.b16{
+    margin-top: 10px;
+    height: 30px;
+    width: 70px;
+    border: 1px solid black;
+    float: left;
+    margin-left: 10px;
+
+}
+
+
+/* c start */
+
+.c1{
+    margin-top: 10px;
+    height: 50px;
+    width: 60px;
+    border: 1px solid black;
+    float: left;
+}
+.c2{
+    margin-top: 10px;
+    height: 50px;
+    width: 70px;
+    border: 1px solid black;
+    float: left;
+    margin-left: 12px;
+}
+
+.c3{
+    margin-top: 10px;
+    height: 50px;
+    width: 70px;
+    border: 1px solid black;
+    float: left;
+    margin-left: 12px;
+}
+.c4{
+    margin-top: 10px;
+    height: 50px;
+    width: 70px;
+    border: 1px solid black;
+    float: left;
+    margin-left: 12px;
+}
+.c5{
+    margin-top: 10px;
+    height: 50px;
+    width: 70px;
+    border: 1px solid black;
+    float: left;
+    margin-left: 10px;
+}
+.c6{
+    margin-top: 10px;
+    height: 50px;
+    width: 70px;
+    border: 1px solid black;
+    float: left;
+    margin-left: 12px;
+}
+
+.c7{
+    margin-top: 10px;
+    height: 50px;
+    width: 70px;
+    border: 1px solid black;
+    float: left;
+    margin-left: 12px;
+}
+
+.c8{
+    margin-top: 10px;
+    height: 50px;
+    width: 70px;
+    border: 1px solid black;
+    float: left;
+    margin-left: 12px;
+}
+
+.c9{
+    margin-top: 10px;
+    height: 50px;
+    width: 70px;
+    border: 1px solid black;
+    float: left;
+    margin-left: 12px;
+}
+
+.c10{
+    margin-top: 10px;
+    height: 50px;
+    width: 70px;
+    border: 1px solid black;
+    float: left;
+    margin-left: 12px;
+}
+.c11{
+    margin-top: 10px;
+    height: 50px;
+    width: 70px;
+    border: 1px solid black;
+    float: left;
+    margin-left: 12px;
+}
+.c12{
+    margin-top: 10px;
+    height: 50px;
+    width: 70px;
+    border: 1px solid black;
+    float: left;
+    margin-left: 12px;
+}
+.c13{
+    margin-top: 10px;
+    height: 50px;
+    width: 70px;
+    border: 1px solid black;
+    float: left;
+    margin-left: 12px;
+}
+.c14{
+    margin-top: 10px;
+    height: 50px;
+    width: 135px;
+    border: 1px solid black;
+    float: left;
+    margin-left: 12px;
+}
+.c15{
+    margin-top: 10px;
+    height: 50px;
+    width: 70px;
+    border: 1px solid black;
+    float: left;
+    margin-left: 12px;
+}
+
+/* d start */
+
+
+.d1{
+    margin-top: 10px;
+    height: 50px;
+    width: 95px;
+    border: 1px solid black;
+    float: left;
+}
+.d2{
+    margin-top: 10px;
+    height: 50px;
+    width: 70px;
+    border: 1px solid black;
+    float: left;
+    margin-left: 12px;
+}
+
+.d3{
+    margin-top: 10px;
+    height: 50px;
+    width: 70px;
+    border: 1px solid black;
+    float: left;
+    margin-left: 12px;
+}
+
+.d4{
+    margin-top: 10px;
+    height: 50px;
+    width: 70px;
+    border: 1px solid black;
+    float: left;
+    margin-left: 12px;
+}
+
+
+.d5{
+    margin-top: 10px;
+    height: 50px;
+    width: 70px;
+    border: 1px solid black;
+    float: left;
+    margin-left: 12px;
+}
+
+.d6{
+    margin-top: 10px;
+    height: 50px;
+    width: 70px;
+    border: 1px solid black;
+    float: left;
+    margin-left: 12px;
+}
+
+.d7{
+    margin-top: 10px;
+    height: 50px;
+    width: 70px;
+    border: 1px solid black;
+    float: left;
+    margin-left: 12px;
+}
+
+
+.d8{
+    margin-top: 10px;
+    height: 50px;
+    width: 70px;
+    border: 1px solid black;
+    float: left;
+    margin-left: 12px;
+}
+
+
+.d9{
+    margin-top: 10px;
+    height: 50px;
+    width: 70px;
+    border: 1px solid black;
+    float: left;
+    margin-left: 12px;
+}
+
+.d10{
+    margin-top: 10px;
+    height: 50px;
+    width: 70px;
+    border: 1px solid black;
+    float: left;
+    margin-left: 12px;
+}
+
+.d11{
+    margin-top: 10px;
+    height: 50px;
+    width: 70px;
+    border: 1px solid black;
+    float: left;
+    margin-left: 12px;
+}
+
+.d12{
+    margin-top: 10px;
+    height: 50px;
+    width: 70px;
+    border: 1px solid black;
+    float: left;
+    margin-left: 12px;
+}
+
+.d13{
+    margin-top: 10px;
+    height: 50px;
+    width: 70px;
+    border: 1px solid black;
+    float: left;
+    margin-left: 12px;
+}
+.d14{
+    margin-top: 10px;
+    height: 50px;
+    width: 98px;
+    border: 1px solid black;
+    float: left;
+    margin-left: 12px;
+}
+.d15{
+    margin-top: 10px;
+    height: 50px;
+    width: 70px;
+    border: 1px solid black;
+    float: left;
+    margin-left: 12px;
+}
+
+
+
+
+/* e start */
+
+
+.e1{
+    margin-top: 10px;
+    height: 50px;
+    width: 111px;
+    border: 1px solid black;
+    float: left;
+}
+
+.e2{
+    margin-top: 10px;
+    height: 50px;
+    width: 70px;
+    border: 1px solid black;
+    float: left;
+    margin-left: 14px;
+}
+
+
+.e3{
+    margin-top: 10px;
+    height: 50px;
+    width: 70px;
+    border: 1px solid black;
+    float: left;
+    margin-left: 14px;
+}
+
+.e4{
+    margin-top: 10px;
+    height: 50px;
+    width: 70px;
+    border: 1px solid black;
+    float: left;
+    margin-left: 14px;
+}
+
+.e5{
+    margin-top: 10px;
+    height: 50px;
+    width: 70px;
+    border: 1px solid black;
+    float: left;
+    margin-left: 14px;
+}
+
+.e6{
+    margin-top: 10px;
+    height: 50px;
+    width: 70px;
+    border: 1px solid black;
+    float: left;
+    margin-left: 14px;
+}
+
+.e7{
+    margin-top: 10px;
+    height: 50px;
+    width: 70px;
+    border: 1px solid black;
+    float: left;
+    margin-left: 14px;
+}
+.e8{
+    margin-top: 10px;
+    height: 50px;
+    width: 70px;
+    border: 1px solid black;
+    float: left;
+    margin-left: 14px;
+}
+.e9{
+    margin-top: 10px;
+    height: 50px;
+    width: 70px;
+    border: 1px solid black;
+    float: left;
+    margin-left: 14px;
+}
+.e10{
+    margin-top: 10px;
+    height: 50px;
+    width: 70px;
+    border: 1px solid black;
+    float: left;
+    margin-left: 14px;
+}
+.e11{
+    margin-top: 10px;
+    height: 50px;
+    width: 70px;
+    border: 1px solid black;
+    float: left;
+    margin-left: 14px;
+}
+.e12{
+    margin-top: 10px;
+    height: 50px;
+    width: 70px;
+    border: 1px solid black;
+    float: left;
+    margin-left: 14px;
+}
+
+
+.e13{
+    margin-top: 10px;
+    height: 50px;
+    width: 145px;
+    border: 1px solid black;
+    float: left;
+    margin-left: 10px;
+}
+.e14{
+    margin-top: 10px;
+    height: 50px;
+    width: 70px;
+    border: 1px solid black;
+    float: left;
+    margin-left: 13px;
+}
+
+
+/*  f start */
+
+
+.f1{
+    margin-top: 10px;
+    height: 50px;
+    width: 160px;
+    border: 1px solid black;
+    float: left;
+}
+.f2{
+    margin-top: 10px;
+    height: 50px;
+    width: 70px;
+    border: 1px solid black;
+    float: left;
+    margin-left: 14px;
+}
+
+.f3{
+    margin-top: 10px;
+    height: 50px;
+    width: 70px;
+    border: 1px solid black;
+    float: left;
+    margin-left: 14px;
+}
+.f4{
+    margin-top: 10px;
+    height: 50px;
+    width: 70px;
+    border: 1px solid black;
+    float: left;
+    margin-left: 14px;
+}
+.f5{
+    margin-top: 10px;
+    height: 50px;
+    width: 70px;
+    border: 1px solid black;
+    float: left;
+    margin-left: 14px;
+}
+.f6{
+    margin-top: 10px;
+    height: 50px;
+    width: 70px;
+    border: 1px solid black;
+    float: left;
+    margin-left: 14px;
+}
+.f7{
+    margin-top: 10px;
+    height: 50px;
+    width: 70px;
+    border: 1px solid black;
+    float: left;
+    margin-left: 14px;
+}
+.f8{
+    margin-top: 10px;
+    height: 50px;
+    width: 70px;
+    border: 1px solid black;
+    float: left;
+    margin-left: 14px;
+}
+.f9{
+    margin-top: 10px;
+    height: 50px;
+    width: 70px;
+    border: 1px solid black;
+    float: left;
+    margin-left: 14px;
+}
+.f10{
+    margin-top: 10px;
+    height: 50px;
+    width: 70px;
+    border: 1px solid black;
+    float: left;
+    margin-left: 14px;
+}
+.f11{
+    margin-top: 10px;
+    height: 50px;
+    width: 70px;
+    border: 1px solid black;
+    float: left;
+    margin-left: 14px;
+}
+
+.f12{
+    margin-top: 10px;
+    height: 50px;
+    width: 180px;
+    border: 1px solid black;
+    float: left;
+    margin-left: 11px;
+}
+
+.f13{
+    margin-top: 10px;
+    height: 50px;
+    width: 70px;
+    border: 1px solid black;
+    float: left;
+    margin-left: 14px;
+}
+
+
+/* g start */
+
+
+.g1{
+    margin-top: 10px;
+    height: 55px;
+    width: 70px;
+    border: 1px solid black;
+    float: left;
+}
+.g2{
+    margin-top: 10px;
+    height: 55px;
+    width: 70px;
+    border: 1px solid black;
+    float: left;
+    margin-left: 10px;
+}
+
+.g3{
+    margin-top: 10px;
+    height: 55px;
+    width: 70px;
+    border: 1px solid black;
+    float: left;
+    margin-left: 14px;
+}
+.g4{
+    margin-top: 10px;
+    height: 55px;
+    width: 90px;
+    border: 1px solid black;
+    float: left;
+    margin-left: 14px;
+}
+
+.g5{
+    margin-top: 10px;
+    height: 55px;
+    width: 455px;
+    border: 1px solid black;
+    float: left;
+    margin-left: 14px;
+}
+.g6{
+    margin-top: 10px;
+    height: 55px;
+    width: 90px;
+    border: 1px solid black;
+    float: left;
+    margin-left: 14px;
+}
+
+.g7{
+    margin-top: 10px;
+    height: 55px;
+    width: 70px;
+    border: 1px solid black;
+    float: left;
+    margin-left: 14px;
+}
+
+.g8{
+    margin-top: 10px;
+    height: 55px;
+    width: 80px;
+    border: 1px solid black;
+    float: left;
+    margin-left: 14px;
+}
+.g9{
+    margin-top: 10px;
+    height: 25px;
+    width: 93px;
+    border: 1px solid black;
+    float: left;
+    margin-left: 14px;
+}
+
+.g10{
+    margin-top: 10px;
+    height: 55px;
+    width: 70px;
+    border: 1px solid black;
+    float: right;
+    margin-left: 1px;
+}
+
+.g11{
+    margin-top: 5px;
+    height: 25px;
+    width: 93px;
+    border: 1px solid black;
+    float: left;
+    margin-left: 14px;
+}
+
